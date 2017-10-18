@@ -1,0 +1,44 @@
+header div {
+	background-color: #222;
+	padding: 50px;
+	right: 5%;
+	left: 5%;
+	border: 10px solid;
+	border-radius: 50px;
+	border-color: #222;
+	margin: 10px;
+	overflow: hidden;
+}
+
+header div table {
+	
+}
+
+header div table td a{
+	font-size: 20px;
+	color: #FFF;
+	float: right;
+	margin-left: 40px;
+	text-decoration: none;
+}
+
+
+body p{
+	margin: 5px;
+}
+
+footer {
+	background-color: #222;
+	padding: 10px;
+	bottom: 0px;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+
+
+footer p {
+	color: #FFF;
+	float: right;
+	text-decoration: none;
+}
